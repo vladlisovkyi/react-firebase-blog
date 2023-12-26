@@ -2,4 +2,4 @@
 
 🧑‍💻Technologies Used: React.Js, Firebase, Redux, React-Hook-Form, Yup, Formik.
 
-📲 Live website: https://next13-movies-eosin.vercel.app/
+📲 Live website: https://cool-stroopwafel-45a579.netlify.app/
